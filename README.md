@@ -1,4 +1,4 @@
-# Task 3: ATM Interface
+# ATM Interface
 
 A console-based Java ATM simulation is built. The application models an Automated Teller Machine by separating account balance management (`BankAccount`) from ATM operations and menu interaction (`ATM`).
 
